@@ -1,3 +1,4 @@
+<!--securing the page to reduce access through web browser-->
 <?php
 require_once("hall_sec_secure.php");
 ?>
